@@ -11,7 +11,7 @@ O objetivo deste projeto foi aplicar conceitos de **UI/UX Design**, responsivida
 ## ✨ Funcionalidades Principais
 
 * **Página Inicial:** Apresentação da marca, bicicletas em destaque e diferenciais.
-* **Página de Bicicletas:** Listagem e detalhes dos modelos de bicicletas, como a "Magic", "Nebula" e "Aurora".
+* **Página de Bicicletas:** Listagem e detalhes dos modelos de bicicletas, como a "Magic", "Nebula" e "Nimbus".
 * **Orçamento/Contato:** Formulário interativo para solicitação de orçamento ou contato.
 * **Design Responsivo:** O site é totalmente adaptado para visualização em desktops, tablets e smartphones.
 * **Animações/Interatividade:** [Liste aqui as animações/interações que você adicionou. Ex: Animações de scroll, navegação por abas em detalhes de bicicletas, etc.]
